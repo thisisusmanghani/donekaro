@@ -67,7 +67,7 @@ You have the right to:
 - **Delete**: Request deletion of your account and associated data
 - **Opt-out**: Disable notifications in your device settings
 
-To exercise these rights, contact us at: **usmanghani@example.com**
+To exercise these rights, contact us at: **iamusmanbro@gmail.com**
 
 ## Data Retention
 
